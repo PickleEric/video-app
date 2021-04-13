@@ -1,0 +1,13 @@
+body {
+    background-color: forestgreen;
+}
+
+.navigation {
+    margin: 15px;
+
+}
+
+.navigation > a {
+    color: purple;
+    padding-right: 30px;
+}
